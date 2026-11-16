@@ -2,7 +2,9 @@
 
 An executive Power BI dashboard that tracks container throughput, truck turnaround, import/export balance, and rail modal share at Port Botany — Sydney’s main container port.
 
-The report is a single **Executive Overview** page.
+![Port Botany Executive Operations Dashboard](images/dashboard.png)
+
+*Executive Overview page (2026 selected)*
 
 ## Business problem
 
